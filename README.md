@@ -30,7 +30,8 @@ Notas Flotantes es una aplicación simple para tomar notas rápidas en ventanas 
    ```
 4. Instala las dependencias:
    ```bash
-   pip install -r requirements.txt
+   pip install pillow keyboard
+   pip install pyinstaller
    ```
 5. Ejecuta la aplicación:
    ```bash
