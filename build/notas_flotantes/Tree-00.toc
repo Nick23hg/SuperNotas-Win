@@ -1,0 +1,5 @@
+('notas_guardadas',
+ None,
+ [],
+ 'DATA',
+ [('notas.json', 'notas_guardadas\\notas.json', 'DATA')])
